@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hello，我是LCH102402105
+## 个人介绍
+姓名：刘翠华
+学号：102402105
+兴趣爱好：绘画，阅读，喜欢动手实现AI、机器学习相关小项目。
 
-<!--
-**lch102402105/LCH102402105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ 技能与自我评估
+✅ 掌握：
+- Python编程，熟练使用sklearn、matplotlib、pandas做数据可视化、基础机器学习实验
+- Flask简易Web后端开发，实现前后端交互
+- Markdown文档编写、基础Git/GitHub版本控制
 
-Here are some ideas to get you started:
+🎯 感兴趣方向：
+机器学习、计算机视觉、大模型API应用开发
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚠️ 待提升：
+前端JS/CSS、软件工程项目规范、算法底层原理、软件测试相关知识
+
+## 📚 实践成果
+1. 机器学习数据集可视化项目：同心圆、月牙数据集散点图，鲍鱼文档数据集，图片九宫格可视化
+2. Flask + AI大模型API文生图网页应用，支持前端输入提示词生成图片
+
+## 📅 未来三年规划
+目标：就业，从事AI应用开发方向
+理由：对图像生成、大模型应用开发有浓厚兴趣，希望持续做AI落地相关开发。
+1. 在校阶段：学好软件工程、机器学习课程，持续写项目积累代码量，学习深度学习、前端基础。
+2. 大二~大三：完成多个实战小项目，学习项目工程化，练习项目文档撰写。
+3. 毕业阶段：积累项目作品集，求职AI应用开发相关岗位。
