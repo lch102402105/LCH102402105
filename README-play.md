@@ -10,3 +10,8 @@
 1. 安装依赖
 ```bash
 pip install pygame
+<img width="1002" height="790" alt="关卡1" src="https://github.com/user-attachments/assets/c7cb7164-8bd4-4ea9-965d-637050057f83" />
+<img width="1002" height="790" alt="关卡2" src="https://github.com/user-attachments/assets/a2b1dfbd-ae07-4c37-997a-06b7814ff556" />
+<img width="1002" height="790" alt="关卡3" src="https://github.com/user-attachments/assets/2a9b6928-f111-4da8-bd28-82df46d54358" />
+<img width="1002" height="790" alt="成功 下一关" src="https://github.com/user-attachments/assets/13c265be-11a4-4ed7-afd2-a303ea248f52" />
+<img width="1002" height="790" alt="失败  R返回" src="https://github.com/user-attachments/assets/9ec3dc61-c050-4135-9252-d7c8cc8645fe" />
